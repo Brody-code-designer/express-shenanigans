@@ -25,7 +25,5 @@ app.use("/apis", indexRoute)
 
 
 app.listen(4200, () => {
-    console.log("Its alive!")
+    console.log("Its alive!!!!")
 })
-
-
